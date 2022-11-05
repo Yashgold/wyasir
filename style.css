@@ -1,0 +1,93 @@
+.login-form{
+    display: grid;
+    place-items: center;
+    color: darkblue;
+}
+#iuiu , #mail {
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.container{
+    display: grid;
+    text-align: center;
+    background-color: honeydew;
+    padding-top: 175px;
+}
+#container2{
+    background-color: lightblue;
+}
+body{
+    background-color: honeydew;
+}
+
+
+.Form-A , .Form-B , .Form-C {
+    text-align: center;
+    color: aquamarine;
+    background-color: lightgrey;
+    width: 300px;
+    border: 2px solid tomato;
+    padding: 50px;
+    margin-left: 400px; 
+     
+    
+}
+
+.input{
+    border: tomato 2px solid;
+}
+#btn{
+    height: 50px;
+    width: 500px;
+    color: cyan;
+    background-color: whitesmoke;
+}
+
+table , th , td{
+    border: 2px solid whitesmoke;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+
+}
+#img-hostel{
+    width: 500px;
+    height: 250px;
+
+    
+}
+#main-content{
+    background-color: honeydew;
+    border: 2px blue solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+#menu-div ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+li{
+    display: inline;
+    float: right;   
+}
+li a{
+    display: block;
+    padding: 14px 16px;
+    background-color: cyan;
+    color: rgb(124, 33, 33);
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+
+
+
+
+
+
